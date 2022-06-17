@@ -11,7 +11,7 @@
     'license': 'AGPL-3',
     'images': ['static/description/odoo-free.jpg'],
     'depends': [
-        'purchase','stock','add_warehouse_orderpoint-4'
+        'purchase','stock','add_warehouse_orderpoint'
     ],
 
     'installable': True,
